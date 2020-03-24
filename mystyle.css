@@ -1,7 +1,9 @@
 body{
-    font-family: Helvetica; 
-    background-color: #69ba5f;
-  }
+  font-family: Helvetica; 
+  background-color: #69ba5f;
+  margin: 0;
+  padding: 0;
+}
   
 #header{
   height: 100px;
@@ -67,4 +69,8 @@ body{
   color: black;
   background-color: #69ba5f;
   transform: rotate(360deg);
+}
+
+marquee{
+  margin-top: 150px;
 }
